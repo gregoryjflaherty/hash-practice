@@ -1,2 +1,2 @@
 # hash examples
-my_collection {car: "Mercedes", animal: "Dog"}
+my_collection {car: "Mercedes", animal: "Dog", customer: "None"}
